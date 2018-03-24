@@ -1,7 +1,12 @@
 # BDTAnalysisOnGoChess
 > Analysis on "go" chess with Big data technology.
 
-[![PySpark 1.6.0]][npm-url]
+Project languaage: python.
+Main code files: https://github.com/mervynn/BDTAnalysisOnGoChess/blob/master/src/main/consumer.py
+https://github.com/mervynn/BDTAnalysisOnGoChess/blob/master/src/main/producer.py
+Launch command file: https://github.com/mervynn/BDTAnalysisOnGoChess/blob/master/src/launch.sh
+
+[![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
