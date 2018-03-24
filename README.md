@@ -11,7 +11,14 @@ One to two paragraph statement about your product and what it does.
 
 ## Installation
 
-OS X & Linux:
+Cloudera CHD5.14.0
+Hadoop 2.6.0
+Spark 1.6.0
+Python 2.6.6
+Hive 
+Kafka
+CGoban - game records raw data
+
 
 ```sh
 npm install my-crazy-module --save
@@ -55,11 +62,7 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/mervynn](https://github.com/mervynn)
 
 ## Contributing
 
