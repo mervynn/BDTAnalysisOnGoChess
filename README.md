@@ -10,7 +10,7 @@ Main code files: consumer.py producer.py launch.sh
 
 ![](header.png)
 
-## Installation
+## Runtime environment
 
 Cloudera CHD5.14.0
 Hadoop 2.6.0
