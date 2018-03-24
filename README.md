@@ -6,9 +6,7 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 
 Project languaage: python.
-Main code files: https://github.com/mervynn/BDTAnalysisOnGoChess/blob/master/src/main/consumer.py<br />
-https://github.com/mervynn/BDTAnalysisOnGoChess/blob/master/src/main/producer.py<br />
-Launch command file: https://github.com/mervynn/BDTAnalysisOnGoChess/blob/master/src/launch.sh<br />
+Main code files: consumer.py producer.py launch.sh
 
 ![](header.png)
 
