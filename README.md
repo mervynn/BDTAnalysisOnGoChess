@@ -1,6 +1,7 @@
 # BDTAnalysisOnGoChess
 > Analysis on "go" chess with Big data technology.
 
+[![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
@@ -47,7 +48,7 @@ CGoban - game records raw data
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-image]: https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
